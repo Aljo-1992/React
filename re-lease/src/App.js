@@ -35,15 +35,17 @@ const App = () => {
             <div className='Tabs'>
               <Tab className="Tab1">Assets</Tab>
               <Tab className="Tab1">Dashboard</Tab>
-              <Tab className="Tab1">Timeline</Tab>
-              <Tab className="Tab1">Accounting</Tab>
-              <Tab className="Tab1">Pending Task</Tab>
+                           
             </div>
           </TabList>
           <div className='Content'>
             <TabPanel>              
              
             </TabPanel>
+            <TabPanel>              
+             <p>Hi Trerscope</p>
+            </TabPanel>
+
 
           </div>
           </div>
